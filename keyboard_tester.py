@@ -62,3 +62,4 @@ class App(ctk.CTk):
     def create_btn(self, **kwargs):
         return ctk.CTkButton(self.frame, hover=False, **kwargs)
 
+
