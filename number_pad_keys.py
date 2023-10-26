@@ -374,7 +374,7 @@ keyboard_keys = [
     },
     {
         "key": ["4", "dollar"],
-        "name": "%      \n  4",
+        "name": "$      \n  4",
         "width": all_keys_size,
         "height": all_keys_size,
         "pos_x": 270,
