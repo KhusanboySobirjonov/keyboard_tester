@@ -1,5 +1,5 @@
 row_1, row_2, row_3, row_4, row_5, row_6 = 10, 60, 125, 190, 255, 320
-fn_keys_height = 40
+function_keys_height = 40
 all_keys_size = 60
 
 keyboard_keys = [
@@ -180,7 +180,7 @@ keyboard_keys = [
         "key": ["print"],
         "name": "Print    \nScreen️",
         "width": all_keys_size,
-        "height": fn_keys_height,
+        "height": function_keys_height,
         "pos_x": 990,
         "pos_y": row_1
     },
@@ -188,7 +188,7 @@ keyboard_keys = [
         "key": ["scroll_lock"],
         "name": "Scroll\nLock",
         "width": all_keys_size,
-        "height": fn_keys_height,
+        "height": function_keys_height,
         "pos_x": 1055,
         "pos_y": row_1
     },
@@ -196,7 +196,7 @@ keyboard_keys = [
         "key": ["pause"],
         "name": "Pause\nBreak",
         "width": all_keys_size,
-        "height": fn_keys_height,
+        "height": function_keys_height,
         "pos_x": 1120,
         "pos_y": row_1
     },
@@ -254,7 +254,7 @@ keyboard_keys = [
         "key": ["f1"],
         "name": "F1",
         "width": all_keys_size,
-        "height": fn_keys_height,
+        "height": function_keys_height,
         "pos_x": 140,
         "pos_y": row_1
     },
@@ -262,7 +262,7 @@ keyboard_keys = [
         "key": ["f2"],
         "name": "F2",
         "width": all_keys_size,
-        "height": fn_keys_height,
+        "height": function_keys_height,
         "pos_x": 205,
         "pos_y": row_1
     },
@@ -270,7 +270,7 @@ keyboard_keys = [
         "key": ["f3"],
         "name": "F3",
         "width": all_keys_size,
-        "height": fn_keys_height,
+        "height": function_keys_height,
         "pos_x": 270,
         "pos_y": row_1
     },
@@ -278,7 +278,7 @@ keyboard_keys = [
         "key": ["f4"],
         "name": "F4",
         "width": all_keys_size,
-        "height": fn_keys_height,
+        "height": function_keys_height,
         "pos_x": 335,
         "pos_y": row_1
     },
@@ -286,7 +286,7 @@ keyboard_keys = [
         "key": ["f5"],
         "name": "F5",
         "width": all_keys_size,
-        "height": fn_keys_height,
+        "height": function_keys_height,
         "pos_x": 435,
         "pos_y": row_1
     },
@@ -294,7 +294,7 @@ keyboard_keys = [
         "key": ["f6"],
         "name": "F6",
         "width": all_keys_size,
-        "height": fn_keys_height,
+        "height": function_keys_height,
         "pos_x": 500,
         "pos_y": row_1
     },
@@ -302,7 +302,7 @@ keyboard_keys = [
         "key": ["f7"],
         "name": "F7",
         "width": all_keys_size,
-        "height": fn_keys_height,
+        "height": function_keys_height,
         "pos_x": 565,
         "pos_y": row_1
     },
@@ -310,7 +310,7 @@ keyboard_keys = [
         "key": ["f8"],
         "name": "F8",
         "width": all_keys_size,
-        "height": fn_keys_height,
+        "height": function_keys_height,
         "pos_x": 630,
         "pos_y": row_1
     },
@@ -318,7 +318,7 @@ keyboard_keys = [
         "key": ["f9"],
         "name": "F9",
         "width": all_keys_size,
-        "height": fn_keys_height,
+        "height": function_keys_height,
         "pos_x": 725,
         "pos_y": row_1
     },
@@ -326,7 +326,7 @@ keyboard_keys = [
         "key": ["f10"],
         "name": "F10",
         "width": all_keys_size,
-        "height": fn_keys_height,
+        "height": function_keys_height,
         "pos_x": 790,
         "pos_y": row_1
     },
@@ -334,7 +334,7 @@ keyboard_keys = [
         "key": ["f11"],
         "name": "F11",
         "width": all_keys_size,
-        "height": fn_keys_height,
+        "height": function_keys_height,
         "pos_x": 855,
         "pos_y": row_1
     },
@@ -342,7 +342,7 @@ keyboard_keys = [
         "key": ["f12"],
         "name": "F12",
         "width": all_keys_size,
-        "height": fn_keys_height,
+        "height": function_keys_height,
         "pos_x": 920,
         "pos_y": row_1
     },
@@ -450,7 +450,7 @@ keyboard_keys = [
         "key": ["escape"],
         "name": "Esc",
         "width": all_keys_size,
-        "height": fn_keys_height,
+        "height": function_keys_height,
         "pos_x": 10,
         "pos_y": row_1
     },
