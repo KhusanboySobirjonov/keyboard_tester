@@ -14,9 +14,9 @@ The modules in the requirements.txt file are installed by issuing the following 
 
 <pre>pip install -r requirements.txt</pre>
 
-The remaining modules are standard python modules. Run the main.py file to run the game.
+The remaining modules are standard python modules. Run the main.py file to run the program.
 
-Use the pyinstaller module to convert the game to .exe format. And run the following command in the terminal :
+Use the pyinstaller module to convert the program to .exe format. And run the following command in the terminal :
 
 <pre>pyinstaller main.py --onefile -w</pre>
 
